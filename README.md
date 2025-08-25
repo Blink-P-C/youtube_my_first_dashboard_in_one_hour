@@ -1,6 +1,6 @@
 # My First Dashboard in One Hour Training
 
-https://www.youtube.com/embed/GHLPIJID388?si=UCh7IwEv0QQVozgg
+[![Saindo do Zero no Power BI – Seu Primeiro Dashboard em ...](https://img.youtube.com/vi/GHLPIJID388/0.jpg)](https://www.youtube.com/watch?v=GHLPIJID388)
 
 ## PT-BR
 
